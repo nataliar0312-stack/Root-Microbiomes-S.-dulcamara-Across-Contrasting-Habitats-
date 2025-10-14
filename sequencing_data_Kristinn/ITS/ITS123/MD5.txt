@@ -1,0 +1,4 @@
+81cbbe7a877eee297eb1849b8daf4802  ITS123_1.fq.gz
+53cd6e6b09094a1247204f07d19dba86  ITS123_2.fq.gz
+e13a3a4480d5f58ea83ad6b30e85d203  ITS123_raw_1.fq.gz
+801d3cdcd2224d95cddf78cef7075926  ITS123_raw_2.fq.gz

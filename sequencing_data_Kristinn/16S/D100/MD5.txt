@@ -1,0 +1,4 @@
+b30841bfedaa253e78af29880b797b7a  D100_1.fq.gz
+4c12878a9a1bba0c22314c5962ef4e61  D100_2.fq.gz
+abb8bc29ec552d7488e83f3afd0d46a4  D100_raw_1.fq.gz
+60a27618bdbb5d33c27bd3641c70ebd6  D100_raw_2.fq.gz

@@ -1,0 +1,4 @@
+137ccfbb6b800cbf91bca524c6a6c6a9  ITS141_1.fq.gz
+3fdc06bb7b78b0243b96c3107d894efc  ITS141_2.fq.gz
+e87583eca2ea6c95fb8c0a8900fdd3e1  ITS141_raw_1.fq.gz
+1e89a4089591f2918f53dce07a49861a  ITS141_raw_2.fq.gz

@@ -1,0 +1,4 @@
+7da0ebbfed3a2bf687509cb9a130f0c7  D232_1.fq.gz
+5788da3eab306f79ff39c249ba62ae73  D232_2.fq.gz
+f4db2ca268cb94f8903a9074c143c207  D232_raw_1.fq.gz
+cfa3a79de733c1bdc2c27f8f1634e71f  D232_raw_2.fq.gz

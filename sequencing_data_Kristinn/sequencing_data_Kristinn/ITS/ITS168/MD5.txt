@@ -1,0 +1,4 @@
+331131d1dcc9fe63bf06fe0ef7cb7564  ITS168_1.fq.gz
+2b2aae9827982b6195e9fb05c66368a6  ITS168_2.fq.gz
+760de9ddf7e591ec9fee82e6a8ce2f15  ITS168_raw_1.fq.gz
+a5025555e7386ca1295c1f1ff8a412ba  ITS168_raw_2.fq.gz

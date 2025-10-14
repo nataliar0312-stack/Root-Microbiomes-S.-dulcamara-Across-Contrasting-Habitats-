@@ -1,0 +1,4 @@
+3380bd8d3b445cd54e14c16675e9b8e4  ITS205_1.fq.gz
+709378fdbd568da41573b1f63450fc8e  ITS205_2.fq.gz
+40845f7b9e0eb2fed767fda4f18cfcf9  ITS205_raw_1.fq.gz
+cc65cec1a44670e1e7acb0a22668e595  ITS205_raw_2.fq.gz

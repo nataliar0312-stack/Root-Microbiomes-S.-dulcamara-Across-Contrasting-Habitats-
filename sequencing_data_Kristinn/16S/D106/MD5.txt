@@ -1,0 +1,4 @@
+9c4943c5ca726a38f87f53c95acae29a  D106_1.fq.gz
+e1130ca0f76eb5e7b69dcace503e0aac  D106_2.fq.gz
+387b50dd6156abbea6b128da4a2456ac  D106_raw_1.fq.gz
+6f0fef418699663890501086f4ef2409  D106_raw_2.fq.gz

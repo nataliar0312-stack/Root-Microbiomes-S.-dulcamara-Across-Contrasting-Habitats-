@@ -1,0 +1,4 @@
+9570c50f2c71f943bd3ab0c7044534b7  ITS110_1.fq.gz
+45df81172b0cefecc3cd7fc542d19a41  ITS110_2.fq.gz
+68cf255f5c07e5e1cea6c3102683bba9  ITS110_raw_1.fq.gz
+63c27ddf371b02f54affde99db1cb796  ITS110_raw_2.fq.gz

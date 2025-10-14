@@ -1,0 +1,4 @@
+6bed7604fea1d6a5a9a1dbb93cd1888b  D130_1.fq.gz
+2dd12c8a20e04b7d6611d9f711d1d7ce  D130_2.fq.gz
+ad49c6f621ea69f20f2abb2f3f2016c2  D130_raw_1.fq.gz
+92c185ffc4865a65d6fdd027019482a2  D130_raw_2.fq.gz

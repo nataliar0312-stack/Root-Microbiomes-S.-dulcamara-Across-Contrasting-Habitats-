@@ -1,0 +1,4 @@
+7c107682c0a30a24ebd9fe4e6969b654  ITS158_1.fq.gz
+7d02e201d462d3a5c4ff079a6c4d6e7e  ITS158_2.fq.gz
+83b90af7290001b1271ce1836d9da94f  ITS158_raw_1.fq.gz
+39a1aeb498d629c4e62c04cf3c3d6e0e  ITS158_raw_2.fq.gz

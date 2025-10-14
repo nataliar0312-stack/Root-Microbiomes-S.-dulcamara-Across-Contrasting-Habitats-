@@ -1,0 +1,4 @@
+3ffa0729999e92d9e17e0dd8ac83634f  ITS109_1.fq.gz
+d2919b75c6b8310e42dd1ab0562639f6  ITS109_2.fq.gz
+dc2b321701cc4c5963cda25cdf3dd0dd  ITS109_raw_1.fq.gz
+bcb6fe2311ac402bf72e96e35f0de72c  ITS109_raw_2.fq.gz

@@ -1,0 +1,4 @@
+7caae845429b3d82524b816ade6a7b90  ITS203_1.fq.gz
+f99bcbe5f404f97576f60385335d250b  ITS203_2.fq.gz
+7e23ce10b14cde3dd4a3e0f1319c9362  ITS203_raw_1.fq.gz
+6af73c0db6a16c64ccdc792a2172aae6  ITS203_raw_2.fq.gz

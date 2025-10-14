@@ -1,0 +1,4 @@
+de93e597cb3059aebb63572e589251ea  D192_1.fq.gz
+48fdba6f71591db1d1b4e82747b0457c  D192_2.fq.gz
+a6f6699fd8197caadc7887f02bcacde5  D192_raw_1.fq.gz
+83defab96f0fc612cd13815eae23134f  D192_raw_2.fq.gz

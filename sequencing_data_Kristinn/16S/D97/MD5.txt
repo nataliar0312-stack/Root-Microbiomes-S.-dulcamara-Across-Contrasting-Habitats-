@@ -1,0 +1,4 @@
+d62ce033a5d86049ada9263866a56d65  D97_1.fq.gz
+a6966d67c033f0b9ed9efc78cfaca83d  D97_2.fq.gz
+2ac227afa13a00ec39fd45d858b1ee62  D97_raw_1.fq.gz
+cd0c30a7ff46b4c7ada8430665162931  D97_raw_2.fq.gz

@@ -1,0 +1,4 @@
+8bdd1e035bf8d0aec15dc8f045f85339  D119_1.fq.gz
+924cd9d3b06e62d9689538aa5ccefebc  D119_2.fq.gz
+a58a6d5a64103afe8abb644e5107df6a  D119_raw_1.fq.gz
+6b64bbdadea9a86e8270a5bdf5a6f2e4  D119_raw_2.fq.gz

@@ -1,0 +1,4 @@
+48bf6cec9aa09395ac8f0899df4b6560  D196_1.fq.gz
+36c118b338ad9fc2b08c2b095d026c6f  D196_2.fq.gz
+3b36c48f02e8147cfd0fbf739945cbf8  D196_raw_1.fq.gz
+23ce26c68bb5a1edb7b9151e3b5c5739  D196_raw_2.fq.gz

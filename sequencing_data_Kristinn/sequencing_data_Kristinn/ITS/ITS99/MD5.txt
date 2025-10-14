@@ -1,0 +1,4 @@
+96f8c357ade6fc4f54268828a9446336  ITS99_1.fq.gz
+fa63add7f52ad3100c32e7c3101c4c04  ITS99_2.fq.gz
+480b99f6a8126cf584d5ffcbf8c0ea99  ITS99_raw_1.fq.gz
+da7aaf31e58b2da23beb0ef1ecb1ca87  ITS99_raw_2.fq.gz

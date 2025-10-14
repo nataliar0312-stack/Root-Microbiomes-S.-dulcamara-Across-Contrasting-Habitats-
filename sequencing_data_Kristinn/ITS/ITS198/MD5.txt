@@ -1,0 +1,4 @@
+1eccde8f6187e3f0b356b382ddb2537e  ITS198_1.fq.gz
+1556c8c4f973baa5726e526866f86c98  ITS198_2.fq.gz
+eef61a640430ba7548fc411ccd6da4e1  ITS198_raw_1.fq.gz
+a947be3450d17091b1c1d3ec2fe368a9  ITS198_raw_2.fq.gz

@@ -1,0 +1,4 @@
+0026904cb0e2289cf2824c7ab1c5cfb5  ITS142_1.fq.gz
+e61a5322fdb114cad010363cb093128f  ITS142_2.fq.gz
+6fd9d8a433b695d9dd59bf333a275989  ITS142_raw_1.fq.gz
+17c0ddc13ac85425754a64c8ad6d7cff  ITS142_raw_2.fq.gz

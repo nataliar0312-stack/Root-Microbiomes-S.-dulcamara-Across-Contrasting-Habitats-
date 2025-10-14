@@ -1,0 +1,4 @@
+d5889163eab34f6c3d86a2f711f92fb7  D193_1.fq.gz
+f9c108b4aa1aaf49aafdf3a73f887f2e  D193_2.fq.gz
+618ec0c8a553e71c0e1600bd64128cd5  D193_raw_1.fq.gz
+cf7fdef6d96a2787169fa110ba0db900  D193_raw_2.fq.gz

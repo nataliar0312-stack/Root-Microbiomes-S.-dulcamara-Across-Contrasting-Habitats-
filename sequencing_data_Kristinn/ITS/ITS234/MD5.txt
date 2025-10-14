@@ -1,0 +1,4 @@
+e7aed8047e7f87aed6b876ca172b1011  ITS234_1.fq.gz
+28cf0fd0a9450a97fce9c5757557a80e  ITS234_2.fq.gz
+fcbf8c9f0fefa488af99692622ebc3ae  ITS234_raw_1.fq.gz
+0ef9427ce36a4b26b3051e25bc33db9e  ITS234_raw_2.fq.gz

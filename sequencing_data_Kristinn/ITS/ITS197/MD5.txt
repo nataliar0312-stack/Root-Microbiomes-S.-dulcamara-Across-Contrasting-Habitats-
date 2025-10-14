@@ -1,0 +1,4 @@
+b6c0b1ae36e1a10db49e80b90b0c3028  ITS197_1.fq.gz
+127f68ed1905c697fcaa8f2129141f22  ITS197_2.fq.gz
+cfc14a3d2b5f6dde93d91394275e5167  ITS197_raw_1.fq.gz
+032d5bdc516c2e50a033ec85f8bb9dfa  ITS197_raw_2.fq.gz

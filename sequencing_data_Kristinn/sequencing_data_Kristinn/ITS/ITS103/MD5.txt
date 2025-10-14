@@ -1,0 +1,4 @@
+d7af0d8dd3b4485859e18e84fd7eb366  ITS103_1.fq.gz
+376bb0f158d8022f1ff4b76d3f47ee54  ITS103_2.fq.gz
+f2beb3badf2f1bf8b2053660033d7e57  ITS103_raw_1.fq.gz
+2e3e4cc61288f85b98c50f47e6df5972  ITS103_raw_2.fq.gz

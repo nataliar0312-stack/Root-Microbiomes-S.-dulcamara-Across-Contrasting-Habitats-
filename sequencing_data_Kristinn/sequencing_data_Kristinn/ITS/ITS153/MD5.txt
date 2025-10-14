@@ -1,0 +1,4 @@
+879d116c63d589733eaf8b504b721b7a  ITS153_1.fq.gz
+46abea85e3d49b6e6e5d44c62e07dda1  ITS153_2.fq.gz
+e79ffddec7a73504def06cc48b8e6e7f  ITS153_raw_1.fq.gz
+57095a8e92177968ce0f056e782252ff  ITS153_raw_2.fq.gz

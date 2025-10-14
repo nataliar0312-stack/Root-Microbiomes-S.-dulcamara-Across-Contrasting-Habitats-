@@ -1,0 +1,4 @@
+d83e1e987170d1db2e38a5e0d14506bc  ITS164_1.fq.gz
+df6e191b4dbc5e963eeb2ee10e68c388  ITS164_2.fq.gz
+41a6f8b4d7dbad7459283419da3d9352  ITS164_raw_1.fq.gz
+51924edf528ad0a9924161d2fead5729  ITS164_raw_2.fq.gz

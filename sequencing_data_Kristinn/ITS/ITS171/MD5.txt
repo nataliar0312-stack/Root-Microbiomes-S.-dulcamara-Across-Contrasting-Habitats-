@@ -1,0 +1,4 @@
+f67de5ade7afacc38b5500589a45fe48  ITS171_1.fq.gz
+71715683cfe54753d058e539457ab9ef  ITS171_2.fq.gz
+02b626f6c1ffbd2f59aa531105f0fa54  ITS171_raw_1.fq.gz
+6f61e75766dc11293cf2e32bcb5e40dc  ITS171_raw_2.fq.gz

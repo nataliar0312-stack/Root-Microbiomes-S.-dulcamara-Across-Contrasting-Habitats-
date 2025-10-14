@@ -1,0 +1,4 @@
+5fde263d02d0348100c1c0ab1e40cbd5  D98_1.fq.gz
+dab64bd4dee1be54b9215d75fff429cd  D98_2.fq.gz
+e84d402b78a3e8841bfbb3dd2cdde248  D98_raw_1.fq.gz
+69662ceac49ba822de1ccba306c0a578  D98_raw_2.fq.gz

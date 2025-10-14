@@ -1,0 +1,4 @@
+9752e2619c7880bb2a2478acf1a0d771  D162_1.fq.gz
+e39fa3522daca64ba990aa5de5a19624  D162_2.fq.gz
+72e0fcedd76424fa13d327e92a6c0fbb  D162_raw_1.fq.gz
+f7bca07aeefc64c28b52b0b39a09f113  D162_raw_2.fq.gz

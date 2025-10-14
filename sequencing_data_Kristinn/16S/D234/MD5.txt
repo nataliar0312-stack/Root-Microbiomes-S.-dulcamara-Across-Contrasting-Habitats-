@@ -1,0 +1,4 @@
+b96cec6b578f2fd7df53187151ee31ba  D234_1.fq.gz
+2a411a93382041da43023689bdcdb7a2  D234_2.fq.gz
+7b63e5325216355b920f1510fe28e4dd  D234_raw_1.fq.gz
+af1068bfd96ad2e5bb47ded52dae92dd  D234_raw_2.fq.gz

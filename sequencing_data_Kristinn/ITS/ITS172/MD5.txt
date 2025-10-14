@@ -1,0 +1,4 @@
+5b9e378b04b285464f1c69b9398ed826  ITS172_1.fq.gz
+f784dc3522bc2a946aee775f4d820188  ITS172_2.fq.gz
+810aa3febabd096a2b6e0b4ee62e3bdb  ITS172_raw_1.fq.gz
+b847f3ed8c448a86657b54b9d44e63c1  ITS172_raw_2.fq.gz

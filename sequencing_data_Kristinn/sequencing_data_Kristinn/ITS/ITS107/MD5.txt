@@ -1,0 +1,4 @@
+06e709d1452a258a93a36503cadbe345  ITS107_1.fq.gz
+2dbe63087d2accbb3d3b565caa4cbec6  ITS107_2.fq.gz
+2fdabfeab916d1a36c42b3d1f52121ee  ITS107_raw_1.fq.gz
+5adf59685deb3f7dd42fe2f1e3ef18b8  ITS107_raw_2.fq.gz

@@ -1,0 +1,4 @@
+f82ffb6d8aeb1a1b29cc6a959bcab039  D143_1.fq.gz
+cdc20024579f82fbd14910521d6ef83f  D143_2.fq.gz
+c9d6a0d02ec1578e99bfbe63cc3ec24c  D143_raw_1.fq.gz
+ae7c30eeae9b99ec8baaaaf8b8e9795a  D143_raw_2.fq.gz

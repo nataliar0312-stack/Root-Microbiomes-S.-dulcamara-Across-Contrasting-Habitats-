@@ -1,0 +1,4 @@
+5f00c929552ccc2d5bc486c677b0fdd2  D170_1.fq.gz
+8eac81fbff55b7b47642d4b446369c12  D170_2.fq.gz
+71ab412caca822d39af365f1e9bdc41d  D170_raw_1.fq.gz
+dc9c2464b93e14a2edec732a4dae279b  D170_raw_2.fq.gz

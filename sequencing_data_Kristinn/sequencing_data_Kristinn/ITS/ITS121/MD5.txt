@@ -1,0 +1,4 @@
+0a4be90af95e0140d66e33689002f1de  ITS121_1.fq.gz
+a02b7672b8ebd3818a1fe98c593d448a  ITS121_2.fq.gz
+c12c1b7a9262df4dd9fe461efbf7cbb0  ITS121_raw_1.fq.gz
+a682e5a0d4ad523c4d0898d1d010ba81  ITS121_raw_2.fq.gz

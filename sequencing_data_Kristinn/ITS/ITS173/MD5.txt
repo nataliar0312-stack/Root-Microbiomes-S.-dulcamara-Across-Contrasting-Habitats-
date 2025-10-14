@@ -1,0 +1,4 @@
+f56853a805f91ec038ad3c84cd091eba  ITS173_1.fq.gz
+bb44a78c3040e580daffebdbf2904920  ITS173_2.fq.gz
+59e6339aa7b6b89eeaeaf66b3c6247a2  ITS173_raw_1.fq.gz
+3406eaf2295c101bea75204c58e25de0  ITS173_raw_2.fq.gz

@@ -1,0 +1,4 @@
+92e9bf0700d53c4325093007a3f53dc9  ITS195_1.fq.gz
+281be730f775a5fe48412bc1ebf60524  ITS195_2.fq.gz
+7d1dc97d4cf5cacd70a7b8aa19533cba  ITS195_raw_1.fq.gz
+106299af19729ff5675bc5174dee5dec  ITS195_raw_2.fq.gz

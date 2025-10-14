@@ -1,0 +1,4 @@
+81d977bcc5ade177631c6752bfe8200b  ITS178_1.fq.gz
+ecdfe1879ee81a0f80164b5bdc4bad6a  ITS178_2.fq.gz
+eb505af97126b697028fe0eff26c5aca  ITS178_raw_1.fq.gz
+e12471d22343ac53eada7729f6b65edd  ITS178_raw_2.fq.gz

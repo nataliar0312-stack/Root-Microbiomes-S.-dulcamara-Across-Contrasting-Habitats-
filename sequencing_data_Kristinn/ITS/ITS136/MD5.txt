@@ -1,0 +1,4 @@
+3f650aea076b553380cec93be5b24018  ITS136_1.fq.gz
+afeab028f0e13f3bc140e2a8ec5097e1  ITS136_2.fq.gz
+96337f38e35eb6e6a81de9b9c4149e32  ITS136_raw_1.fq.gz
+b458773c20ac33dbe839fdf566414d33  ITS136_raw_2.fq.gz

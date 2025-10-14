@@ -1,0 +1,4 @@
+d636bbcbcff7760184ea89167078676b  ITS162_1.fq.gz
+e32f82b2d83cce5e128ec759f949fcef  ITS162_2.fq.gz
+775f594ea881be3d4eaecb0a01fba3a0  ITS162_raw_1.fq.gz
+a1052d012ed55aeb2dc67dfea890d262  ITS162_raw_2.fq.gz

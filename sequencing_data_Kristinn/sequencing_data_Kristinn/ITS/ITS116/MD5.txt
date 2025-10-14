@@ -1,0 +1,4 @@
+06f82e518bebde6b33657baa8092fdfc  ITS116_1.fq.gz
+343b1e5010427d9515cda92542e8c93a  ITS116_2.fq.gz
+9f5754cbd9ec727fa8f22888efb17caf  ITS116_raw_1.fq.gz
+8ccbd64dee7e1b4a8b9e59cd80e5237b  ITS116_raw_2.fq.gz

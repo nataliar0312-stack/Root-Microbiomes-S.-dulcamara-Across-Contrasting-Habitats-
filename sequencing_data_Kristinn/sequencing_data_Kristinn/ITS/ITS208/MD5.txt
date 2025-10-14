@@ -1,0 +1,4 @@
+94b4cfaa26a7512ad8a667330bbd5cb4  ITS208_1.fq.gz
+23f50e002b8e2ddb4e127ba9a1db1b4b  ITS208_2.fq.gz
+ca50a08f4912b56f1aae4808f7edc7ec  ITS208_raw_1.fq.gz
+9847a1a2bbb1c0ee533e8ee1c95c03c2  ITS208_raw_2.fq.gz

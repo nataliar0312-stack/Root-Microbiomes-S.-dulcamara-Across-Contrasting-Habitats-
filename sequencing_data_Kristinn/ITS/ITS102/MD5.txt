@@ -1,0 +1,4 @@
+82c94d6cb9419229b9d6a7bc7bebe89c  ITS102_1.fq.gz
+c9984895d13d48e8a3167b9c9f6e956c  ITS102_2.fq.gz
+abb767c03770ed8981280c4ff40105a3  ITS102_raw_1.fq.gz
+d2062e26be3d10ef8402eadec0fdadeb  ITS102_raw_2.fq.gz

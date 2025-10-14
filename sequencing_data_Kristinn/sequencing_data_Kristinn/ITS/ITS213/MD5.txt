@@ -1,0 +1,4 @@
+f35f46e6f02cb0efe58a14febac8b87e  ITS213_1.fq.gz
+c61a49e3e111474c6f69a668d9ca6308  ITS213_2.fq.gz
+ea4464f97fab541f1ab4ac5ec36c3f63  ITS213_raw_1.fq.gz
+dd9ad4874f9aad23f2fb8f3b127c0885  ITS213_raw_2.fq.gz

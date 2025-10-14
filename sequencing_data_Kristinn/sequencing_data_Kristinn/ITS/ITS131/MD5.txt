@@ -1,0 +1,4 @@
+5c59050572d94722c5d63a0243b58ae8  ITS131_1.fq.gz
+a98c35e61d1115cd4049422a7fdcab03  ITS131_2.fq.gz
+d726b6aea16447977afd5b783297c6b2  ITS131_raw_1.fq.gz
+cb4652ab18512ae51c8a0b97ebefaceb  ITS131_raw_2.fq.gz

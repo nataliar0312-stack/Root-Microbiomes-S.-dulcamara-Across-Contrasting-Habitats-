@@ -1,0 +1,4 @@
+7c5a628a8b74e1df82202ad53d19b537  ITS98_1.fq.gz
+8b140e1d0361be6e8521de8f94e40c51  ITS98_2.fq.gz
+2500317aee11710a5a622f2dd0c1a552  ITS98_raw_1.fq.gz
+63e4e9b80bf5d03ed3e7e69cf249a5cf  ITS98_raw_2.fq.gz

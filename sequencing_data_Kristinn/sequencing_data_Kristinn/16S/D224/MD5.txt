@@ -1,0 +1,4 @@
+bb56108ff7ba69a562da9dd3966922ec  D224_1.fq.gz
+dd738bf3842b8d0fc1c39acb4d1ead72  D224_2.fq.gz
+6de798879b8acd6d26bd3ef7fc7ac6ec  D224_raw_1.fq.gz
+5008d2d8c109e27b406904780d475505  D224_raw_2.fq.gz

@@ -1,0 +1,4 @@
+b6c5e754ae6cdd066da0369c077aacab  D127_1.fq.gz
+5b374c96f9378973392b83dc29ffb3cb  D127_2.fq.gz
+5d3c093c2f8f91370339e4f206c53499  D127_raw_1.fq.gz
+9fab1ad5c6c68e92f290d0de41fde6bd  D127_raw_2.fq.gz

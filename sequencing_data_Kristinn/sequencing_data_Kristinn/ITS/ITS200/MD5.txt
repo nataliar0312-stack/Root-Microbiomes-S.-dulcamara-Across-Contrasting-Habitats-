@@ -1,0 +1,4 @@
+97cd2611be7bd548c0fe084e904372b0  ITS200_1.fq.gz
+3c239fda51ade24e4d36d84df50dbaa3  ITS200_2.fq.gz
+30c53c060d1757bbabb190b358433703  ITS200_raw_1.fq.gz
+3feb346db184fb4071df1ca38a8521ec  ITS200_raw_2.fq.gz

@@ -1,0 +1,4 @@
+6a84e00c9de1dad15f8b347cdab82807  D149_1.fq.gz
+3a21358e58d44aeae54beb29d19cb538  D149_2.fq.gz
+8c970db6bd2b9c13b2be0834a161d433  D149_raw_1.fq.gz
+61befe44f9eb7f495c251a74f55e696e  D149_raw_2.fq.gz

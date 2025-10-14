@@ -1,0 +1,4 @@
+d35bed83d1303f6550d039ad2bdc1fcd  ITS218_1.fq.gz
+4b69d0a084a4eee1633cd825ed515e94  ITS218_2.fq.gz
+6115da3dfba76f61b6ba4cfc397174b1  ITS218_raw_1.fq.gz
+4fe2863751acabf2d6356fbad7e2ffaa  ITS218_raw_2.fq.gz

@@ -1,0 +1,4 @@
+83d95457ef91a1dc5ebc31e636ae63d9  ITS159_1.fq.gz
+f5228c16f3b8187211eefcbe2dc5b68a  ITS159_2.fq.gz
+2843e0397d0a1b6444efb3aa0b18acb0  ITS159_raw_1.fq.gz
+12857bc229627bb4e7048005cf2804ae  ITS159_raw_2.fq.gz

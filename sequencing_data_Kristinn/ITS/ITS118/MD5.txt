@@ -1,0 +1,4 @@
+d7bbdfe3f72bde4f331a9b29e2c209dd  ITS118_1.fq.gz
+0ca3bd83decfcad774661c4b89f67d35  ITS118_2.fq.gz
+1d1def8a17909154e33f88141606f0e6  ITS118_raw_1.fq.gz
+e799f60a6d5d86fd8c590ba683955abf  ITS118_raw_2.fq.gz
