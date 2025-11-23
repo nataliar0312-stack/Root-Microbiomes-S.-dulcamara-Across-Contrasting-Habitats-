@@ -1,4 +1,0 @@
-fde5ba3c4c9e9b0820fce3ca963618d9  ITS226_1.fq.gz
-b2bb691b4c5e542fc198ef79633b57e3  ITS226_2.fq.gz
-bf9e4c6c0d985d02bb6932508bc7efd5  ITS226_raw_1.fq.gz
-3706ada877536cea5f8769501c45f464  ITS226_raw_2.fq.gz

@@ -1,4 +1,0 @@
-5c5dae65a18aa4579ee0f78427caf28c  D141_1.fq.gz
-942c4c179c3dada648e5be50bfc49dd1  D141_2.fq.gz
-5f60957cadf2255e1fa8989fd0ded04d  D141_raw_1.fq.gz
-49e09b52c9f232dada701ac6de14f320  D141_raw_2.fq.gz

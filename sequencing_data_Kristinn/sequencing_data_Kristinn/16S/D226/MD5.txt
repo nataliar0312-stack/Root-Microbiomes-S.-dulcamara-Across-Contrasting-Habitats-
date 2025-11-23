@@ -1,4 +1,0 @@
-31af01adf10c5dc415f17948c023f350  D226_1.fq.gz
-6b4b6cd2f087fe309eeb080d1e273131  D226_2.fq.gz
-296f2689fc4a1f55c851068fa7bedc27  D226_raw_1.fq.gz
-8c11cce03c72ed6bfa47da08dfb210dc  D226_raw_2.fq.gz

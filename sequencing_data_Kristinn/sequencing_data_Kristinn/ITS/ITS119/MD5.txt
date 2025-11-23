@@ -1,4 +1,0 @@
-d2861ad4f9b7a1e2bf505e6ad39707a0  ITS119_1.fq.gz
-a81f6076653ac707e280ba070fbdc702  ITS119_2.fq.gz
-2251c6565382c6581d85e3baffaf367a  ITS119_raw_1.fq.gz
-2408decf3c4b0d1cd9f71be809d1592a  ITS119_raw_2.fq.gz

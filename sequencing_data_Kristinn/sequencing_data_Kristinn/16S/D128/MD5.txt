@@ -1,4 +1,0 @@
-a403e233fd87ef1f88aaa0bdb82c9c05  D128_1.fq.gz
-498202a32b06c96d761ffa4e3d03f2ab  D128_2.fq.gz
-eb0ee0ca1f53156bc240e6452dbc064c  D128_raw_1.fq.gz
-a78dd0187be09928554daa09be83c266  D128_raw_2.fq.gz

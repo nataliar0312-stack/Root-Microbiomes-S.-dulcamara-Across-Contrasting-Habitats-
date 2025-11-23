@@ -1,4 +1,0 @@
-9208fe7e607773baaf3bbcf309899909  D187_1.fq.gz
-e23cfbed2ec21a9cdfbe916da664bc4b  D187_2.fq.gz
-7cb35652357a4ca9fe827ade61ca5a22  D187_raw_1.fq.gz
-95f6bdf9257a51466ddcd0b85f4cd8e1  D187_raw_2.fq.gz

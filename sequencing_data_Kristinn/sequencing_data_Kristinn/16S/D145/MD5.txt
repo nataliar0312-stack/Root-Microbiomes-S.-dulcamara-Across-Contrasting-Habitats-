@@ -1,4 +1,0 @@
-57cb47db3698cdf9e1c27ed31746ca7c  D145_1.fq.gz
-63478b69ce23db8c3669b19ead537ec7  D145_2.fq.gz
-b0ce082eabc2fa0df3be0d0cf7881dc8  D145_raw_1.fq.gz
-29eb23e71792b1f9db24ee5c0ebdb13e  D145_raw_2.fq.gz

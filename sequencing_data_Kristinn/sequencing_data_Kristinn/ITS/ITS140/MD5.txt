@@ -1,4 +1,0 @@
-f50a67ee75c8a91da93a0fe143f5aedd  ITS140_1.fq.gz
-ce8ea667a89091923e4e4caf8552db35  ITS140_2.fq.gz
-6dbab817f3e85686aa730369c2ad0578  ITS140_raw_1.fq.gz
-3c4ecb1a24f589f8487dc6aceba50081  ITS140_raw_2.fq.gz

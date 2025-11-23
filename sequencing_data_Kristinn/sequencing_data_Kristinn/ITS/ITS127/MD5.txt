@@ -1,4 +1,0 @@
-22b5d86e58e96bfdbfe74040673be472  ITS127_1.fq.gz
-4a6c6987fb3b160bd26106f3d2a9e5b1  ITS127_2.fq.gz
-6099bdd17f48346fde8a28f6a822f3bb  ITS127_raw_1.fq.gz
-f6b74cd49e47cdd3e5ae3b696e7a33fe  ITS127_raw_2.fq.gz

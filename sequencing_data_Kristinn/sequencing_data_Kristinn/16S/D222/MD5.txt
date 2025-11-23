@@ -1,4 +1,0 @@
-638a6223dc5b93f3c1078cc74bf5e96f  D222_1.fq.gz
-4e1adacf36c08c7d8e5c6333c49b61d8  D222_2.fq.gz
-64a6d93bbaa08a87ba89f5265f6c3c6a  D222_raw_1.fq.gz
-ddcfb1cd84d1ec8109456ff04cc0ae17  D222_raw_2.fq.gz

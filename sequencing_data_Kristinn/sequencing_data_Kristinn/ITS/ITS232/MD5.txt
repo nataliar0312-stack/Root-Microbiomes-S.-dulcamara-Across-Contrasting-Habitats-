@@ -1,4 +1,0 @@
-853a8e1ee07573af3f8bccdbf7994bf7  ITS232_1.fq.gz
-bc203afbaaffd4784569257457b6212e  ITS232_2.fq.gz
-3e84aa3ce54ab8b9663d6ff225310ae7  ITS232_raw_1.fq.gz
-e0d28a8d9ca806aebfe12b26aca8578b  ITS232_raw_2.fq.gz

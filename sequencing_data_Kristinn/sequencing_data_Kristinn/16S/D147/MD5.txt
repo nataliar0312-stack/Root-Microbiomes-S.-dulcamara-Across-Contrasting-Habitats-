@@ -1,4 +1,0 @@
-6dbb5c4c12f08647e196e6e7f7bfafc2  D147_1.fq.gz
-024955a7827fbff3587ced862bc18be5  D147_2.fq.gz
-ea1e04a85dbea8ef84dd2ff6db2d1945  D147_raw_1.fq.gz
-62a67d92d8f1e4cdc2549f21d81be52f  D147_raw_2.fq.gz

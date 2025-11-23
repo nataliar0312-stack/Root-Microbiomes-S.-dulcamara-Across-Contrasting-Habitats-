@@ -1,4 +1,0 @@
-ef5321165e860a384d956086d59f47dd  ITS231_1.fq.gz
-d83a5b86ef79a3d9aab431497dd0f7d4  ITS231_2.fq.gz
-d4dcecf3a13729b3245dda856fec6c54  ITS231_raw_1.fq.gz
-214d6f120b9909921ee984ecbaa44c42  ITS231_raw_2.fq.gz

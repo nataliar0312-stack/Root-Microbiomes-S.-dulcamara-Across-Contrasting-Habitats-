@@ -1,4 +1,0 @@
-be6b86a5cb85af8c6151469136ce7995  ITS209_1.fq.gz
-fa2ca2ccbd6cd3887e9bdb718091078a  ITS209_2.fq.gz
-3e49fdeb575c03b62d4c2a75e5a65fc4  ITS209_raw_1.fq.gz
-e44bde54d212e6d4206db2fd39d0d02b  ITS209_raw_2.fq.gz

@@ -1,4 +1,0 @@
-2abe2e4a4fd3fc5fc92cada9a16d45c4  D111_1.fq.gz
-7df7fb7c0181da10c88cfa1cc8d6fc32  D111_2.fq.gz
-badbb417c10608791aada8469965cc23  D111_raw_1.fq.gz
-77e9c81865c4f069a3001dd46e0a0d16  D111_raw_2.fq.gz

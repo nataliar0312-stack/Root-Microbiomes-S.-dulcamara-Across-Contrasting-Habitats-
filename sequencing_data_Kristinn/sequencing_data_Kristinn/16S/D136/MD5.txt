@@ -1,4 +1,0 @@
-a2cb3a235f3a492d3b1dcc8cb1db18d4  D136_1.fq.gz
-aa7f2b4fbf3b5a8d93c3cc0074ac13d9  D136_2.fq.gz
-6a648066b1ad88aa3f11d888af169520  D136_raw_1.fq.gz
-32d00389b9f8588da40cac091324fdf9  D136_raw_2.fq.gz

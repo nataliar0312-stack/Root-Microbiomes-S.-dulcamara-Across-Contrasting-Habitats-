@@ -1,4 +1,0 @@
-76e2e4fbeb90f581ac753425cf63abf5  D195_1.fq.gz
-c35929705cf9ffb99ff42db98c10ba1f  D195_2.fq.gz
-bfda5c77b00de72aa8786dba9f2d1981  D195_raw_1.fq.gz
-80ca8923215c0b918f7b416d0584a06e  D195_raw_2.fq.gz

@@ -1,4 +1,0 @@
-df33c7b22521bc0dfbb6eb0ad4463643  D168_1.fq.gz
-b541f84c86eb16c0d4d4b8b26c19d7fb  D168_2.fq.gz
-966f648f181bd6e4b8d3c4fb9b35204b  D168_raw_1.fq.gz
-28255e49ea7fc7d3d86fdcc84bb66254  D168_raw_2.fq.gz

@@ -1,4 +1,0 @@
-7331587dd3702843012741f3ec2f09c2  ITS117_1.fq.gz
-a8347d546eca5a6ef0a07d48095e3745  ITS117_2.fq.gz
-f4b435baabfafe9a6b455b79dacc50d3  ITS117_raw_1.fq.gz
-9d2f0562742dd0504ade1e9f489caad5  ITS117_raw_2.fq.gz

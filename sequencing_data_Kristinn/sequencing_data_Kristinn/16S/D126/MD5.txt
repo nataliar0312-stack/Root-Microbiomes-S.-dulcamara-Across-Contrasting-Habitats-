@@ -1,4 +1,0 @@
-c3b0f3405fccf7dbfbdb190c615d36f8  D126_1.fq.gz
-d6ebfc77a62a2fd3a83c8edcfbb2fcea  D126_2.fq.gz
-11c8581763bc38a23ea4e25c93004c3a  D126_raw_1.fq.gz
-d85f32df9f9135871f7e341b72806ef9  D126_raw_2.fq.gz

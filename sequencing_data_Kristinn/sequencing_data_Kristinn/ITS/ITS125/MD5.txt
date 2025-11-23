@@ -1,4 +1,0 @@
-e9f127f916ada02cd6b4f66f6972cec5  ITS125_1.fq.gz
-76e469fe825688a78429a916e04b1394  ITS125_2.fq.gz
-f991e4a9dabef1bdabb3413038605e08  ITS125_raw_1.fq.gz
-afe273bd0ad01fddaa0a0ecd130881b0  ITS125_raw_2.fq.gz

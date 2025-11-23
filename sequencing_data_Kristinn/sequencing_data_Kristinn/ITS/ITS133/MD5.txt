@@ -1,4 +1,0 @@
-b77675215be22779de7df859cffaa96e  ITS133_1.fq.gz
-4a338f8fcdd33e87641cf268ca0607be  ITS133_2.fq.gz
-3f7857a7a45e55c03303dd6a22187de7  ITS133_raw_1.fq.gz
-409def70b5b2c45a0e57d62c6f3b2317  ITS133_raw_2.fq.gz

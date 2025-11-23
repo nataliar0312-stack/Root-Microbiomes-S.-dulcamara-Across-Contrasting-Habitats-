@@ -1,4 +1,0 @@
-877bb9b064f9cd70aa6726febe7608dd  ITS106_1.fq.gz
-4e7b1cbec390a99c6529e82f8660d9eb  ITS106_2.fq.gz
-b8437f896788ea82818dcc82ed7257cb  ITS106_raw_1.fq.gz
-a7167b72a5348e5b318b9c5b8fada0a2  ITS106_raw_2.fq.gz

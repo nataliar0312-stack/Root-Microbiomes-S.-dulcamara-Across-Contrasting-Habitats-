@@ -1,4 +1,0 @@
-bac60575f7a915e539efe9eaaa1d67f2  D102_1.fq.gz
-cfe7f2b25bb21c75e4b672a26cb5b9ea  D102_2.fq.gz
-67381509971b603cf14dd369e5d0a6b4  D102_raw_1.fq.gz
-6d3f566de93f7326e2ea1cbad915444d  D102_raw_2.fq.gz

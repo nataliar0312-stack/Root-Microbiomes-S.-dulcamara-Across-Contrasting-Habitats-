@@ -1,4 +1,0 @@
-e9edefab4451c6471c08a770af66ac34  D216_1.fq.gz
-d4e10bc6264c0dadafabc18631f4b8f0  D216_2.fq.gz
-f8e2cdb6b10ab359628ee273c7af2de9  D216_raw_1.fq.gz
-441347e46b59049eea49dd1e68b1083f  D216_raw_2.fq.gz

@@ -1,4 +1,0 @@
-a5168f6dee2e37500a658a6685296d4d  ITS113_1.fq.gz
-dc5d38fcbd16bddd8d26aa8d9e8683e2  ITS113_2.fq.gz
-e648fe3ad4cada750c1c01e53ad80476  ITS113_raw_1.fq.gz
-3d07508a6be1f866f263a48dba04a07c  ITS113_raw_2.fq.gz

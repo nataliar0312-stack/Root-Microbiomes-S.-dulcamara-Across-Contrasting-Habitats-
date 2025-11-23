@@ -1,4 +1,0 @@
-1ec36ce75ae6a5d0939bbf02cb11abdf  ITS132_1.fq.gz
-5574befc6578dae9ecc1c85d8064cfa8  ITS132_2.fq.gz
-338e0140cbbeb6fde3bc343c50a1f70f  ITS132_raw_1.fq.gz
-df2d77324a502a0b8ac8cd92ddf487e2  ITS132_raw_2.fq.gz

@@ -1,4 +1,0 @@
-354963d03bdc6cb1c85140fb7f666bbe  ITS134_1.fq.gz
-11aee3e6921c8e8d69df7bfc03d2dc54  ITS134_2.fq.gz
-350f983f7972183aeceae8261e5a3566  ITS134_raw_1.fq.gz
-6c0c764fe96d4cc0d920b65a8333de44  ITS134_raw_2.fq.gz

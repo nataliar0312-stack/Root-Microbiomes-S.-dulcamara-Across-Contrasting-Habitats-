@@ -1,4 +1,0 @@
-a95c40cdd2d142bc1f6821781be725ed  ITS225_1.fq.gz
-f620f062e6a84473bf53e66363fbac6b  ITS225_2.fq.gz
-de3070dd380c8c76b680ac028205b70a  ITS225_raw_1.fq.gz
-6fd7ca0135dc9142de5994b972dbda21  ITS225_raw_2.fq.gz

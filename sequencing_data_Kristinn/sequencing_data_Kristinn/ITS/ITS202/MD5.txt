@@ -1,4 +1,0 @@
-d9d6dad9bbe708d5dbbb620dd9235bd5  ITS202_1.fq.gz
-fa38e4399fa6a2c9583ea99885088794  ITS202_2.fq.gz
-5cc1561699ffbcd8c5ab47f7da1ae6ac  ITS202_raw_1.fq.gz
-2ab35ed41fc252af2b21c02d2232ce47  ITS202_raw_2.fq.gz

@@ -1,4 +1,0 @@
-c046360ee72dd2ffe2d11ad59fa6da40  ITS229_1.fq.gz
-3558e894aed761943a2d5cc06438fcc8  ITS229_2.fq.gz
-15789f3f1c5f9d0fc17dccadadbf8183  ITS229_raw_1.fq.gz
-14fd6875f26907de0f8054b43faa8b07  ITS229_raw_2.fq.gz

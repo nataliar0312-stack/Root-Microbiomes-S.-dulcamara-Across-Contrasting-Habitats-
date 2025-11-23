@@ -1,4 +1,0 @@
-dfc82e41905836608dd7a5b964ed863b  ITS174_1.fq.gz
-1876642ef40c16df94eac2f5b4ebd2ae  ITS174_2.fq.gz
-1672712b1c5ddb14b6eaf03f8d16e49e  ITS174_raw_1.fq.gz
-7becc482610746d67651b806b9482d7e  ITS174_raw_2.fq.gz

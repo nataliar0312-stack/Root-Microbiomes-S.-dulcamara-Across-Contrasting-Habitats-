@@ -1,4 +1,0 @@
-56eb8d928c75adff747dd0c465783eee  ITS135_1.fq.gz
-05ae764a48e4c733e81acd2c8a776dbf  ITS135_2.fq.gz
-07b08cb6022d21d3593553b450958831  ITS135_raw_1.fq.gz
-3ff7c934ea3c5ab80e6de361820bff51  ITS135_raw_2.fq.gz

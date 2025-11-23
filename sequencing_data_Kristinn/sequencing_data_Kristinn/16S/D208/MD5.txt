@@ -1,4 +1,0 @@
-a8684a76a3f0a228aebccf05edcdd9d9  D208_1.fq.gz
-970c9d97050a91de7b7c7abaf6b572a6  D208_2.fq.gz
-f06d7751d6ede9e4f95628e0facaa2d6  D208_raw_1.fq.gz
-e1f3c77ce5510e8ac8121f987ce036a0  D208_raw_2.fq.gz

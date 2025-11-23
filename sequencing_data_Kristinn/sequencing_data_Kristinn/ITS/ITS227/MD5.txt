@@ -1,4 +1,0 @@
-2850b750357284b840f9fb3746a98a71  ITS227_1.fq.gz
-e18daacb839a87489dce8a2ff5a5da65  ITS227_2.fq.gz
-e806006c5f73ab5d580be6d5451d7d3c  ITS227_raw_1.fq.gz
-36bff7d333887d1d328f7ff91abffa7b  ITS227_raw_2.fq.gz

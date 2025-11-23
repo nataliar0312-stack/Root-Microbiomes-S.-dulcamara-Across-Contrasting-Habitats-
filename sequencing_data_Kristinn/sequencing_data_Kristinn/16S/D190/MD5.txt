@@ -1,4 +1,0 @@
-3bc18c837d198e6f3a2eddbbd1bccf22  D190_1.fq.gz
-a957f49082735c4bd143b8bbbe03cfaf  D190_2.fq.gz
-157392c411fa4286b2c6cd29ac9c9cb7  D190_raw_1.fq.gz
-bffab4ab4c243247effdfcd2eaab2a63  D190_raw_2.fq.gz

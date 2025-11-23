@@ -1,4 +1,0 @@
-a09fd929a34d9e271aa901f1b69dc4cb  D104_1.fq.gz
-48ec8bd7ce4ce9ba2b5dbf3a1a2a58a4  D104_2.fq.gz
-4514095a33f1bc443ff8fad831399790  D104_raw_1.fq.gz
-7116f53dd2ec524824548bdae75cf392  D104_raw_2.fq.gz

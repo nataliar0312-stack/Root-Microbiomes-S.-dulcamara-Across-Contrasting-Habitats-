@@ -1,4 +1,0 @@
-52e11a8d6f5b83e4f3e184d004c75bab  D207_1.fq.gz
-87b0215f79e56d14e40aa33f1c9b0854  D207_2.fq.gz
-cc0b4380b2ef1d2f47ea7a82f35805fe  D207_raw_1.fq.gz
-de60b9b78615d352c5b3d943edfb0c6a  D207_raw_2.fq.gz

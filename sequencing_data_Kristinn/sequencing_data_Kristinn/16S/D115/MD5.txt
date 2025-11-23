@@ -1,4 +1,0 @@
-de0f63ed5b826902d1eb13c3912d9934  D115_1.fq.gz
-08e0f9f3cf4858bbab6e63ee8bfbd44b  D115_2.fq.gz
-5f7f63724d7a7b7245b7b4042d535ed9  D115_raw_1.fq.gz
-bd87ad8404dafb6503dc8d18abe1bf9e  D115_raw_2.fq.gz

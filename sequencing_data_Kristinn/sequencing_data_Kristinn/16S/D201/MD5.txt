@@ -1,4 +1,0 @@
-10b76b16c1a34bec40ae59ac182dfe99  D201_1.fq.gz
-721d91d7e941a6dc8daf335af80296fe  D201_2.fq.gz
-e13f93a933d8049c066eadeb3c662b7e  D201_raw_1.fq.gz
-f84f2a3a495efee1d680fb6fc145f7f2  D201_raw_2.fq.gz

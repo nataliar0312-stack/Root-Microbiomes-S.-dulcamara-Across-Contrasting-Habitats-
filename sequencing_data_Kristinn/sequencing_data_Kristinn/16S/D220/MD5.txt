@@ -1,4 +1,0 @@
-c535cb94a935c32401a56c38566a4d56  D220_1.fq.gz
-ca7c7274c4cb731aef0c15ba5bb936ba  D220_2.fq.gz
-78cb359258e491af13fde6d81a13b443  D220_raw_1.fq.gz
-06e4f3febf86139c9f6fa89ef5bb982b  D220_raw_2.fq.gz

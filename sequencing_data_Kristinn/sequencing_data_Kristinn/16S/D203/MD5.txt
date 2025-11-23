@@ -1,4 +1,0 @@
-aacd8cfa8864d27d41dc02f1c158af2d  D203_1.fq.gz
-517e517dcd7ddf1351f9bfe1a08dcf0f  D203_2.fq.gz
-844bf59cf5156d6d7925490cd9c02cd9  D203_raw_1.fq.gz
-93b8f9574b9d2cb6739ec0a412229cef  D203_raw_2.fq.gz

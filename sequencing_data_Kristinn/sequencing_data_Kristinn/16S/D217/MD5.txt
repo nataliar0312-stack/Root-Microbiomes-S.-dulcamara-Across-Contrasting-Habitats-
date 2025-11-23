@@ -1,4 +1,0 @@
-f9ca49841062419c5f247d456dea5c14  D217_1.fq.gz
-f043dec7503a4608c0db5f6fccb835e5  D217_2.fq.gz
-c39bd4452ae64ff2e56f67f3e638bb5f  D217_raw_1.fq.gz
-19ecce7f236dc4c15b56325d07e82bc2  D217_raw_2.fq.gz

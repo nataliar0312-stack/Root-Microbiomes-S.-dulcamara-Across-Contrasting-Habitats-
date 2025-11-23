@@ -1,4 +1,0 @@
-8dd8fdd8e690280be8cef5df7ada70c4  D109_1.fq.gz
-e5c87c9ba3058596eace2e7f319a8c3e  D109_2.fq.gz
-de9460d413aa1de69c963bc2a15998d2  D109_raw_1.fq.gz
-a02e841a9fd22390d440f344d0f986e0  D109_raw_2.fq.gz

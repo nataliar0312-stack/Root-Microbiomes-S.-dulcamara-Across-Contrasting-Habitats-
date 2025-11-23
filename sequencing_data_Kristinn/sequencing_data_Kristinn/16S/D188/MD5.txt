@@ -1,4 +1,0 @@
-84ad3d07b21ab5bee4cb741325e6cdde  D188_1.fq.gz
-75c2e86ea30061765eb8c924ecc4e7e2  D188_2.fq.gz
-e75fcca77d3196cee78dab3dc31ad9f7  D188_raw_1.fq.gz
-dc67256b5679811ccd53266344e1f35e  D188_raw_2.fq.gz

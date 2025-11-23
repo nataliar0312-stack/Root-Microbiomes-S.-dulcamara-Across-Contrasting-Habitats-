@@ -1,4 +1,0 @@
-772d960d781c5cce5a38c73be53bd67e  D110_1.fq.gz
-c4b6d68a6f4e58e8f445c0f58268f449  D110_2.fq.gz
-afe3a4a6a70d45c728af48806957cbea  D110_raw_1.fq.gz
-0b8ec6e0c461db99eb4ee61547cca244  D110_raw_2.fq.gz

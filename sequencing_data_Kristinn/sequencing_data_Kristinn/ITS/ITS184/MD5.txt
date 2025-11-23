@@ -1,4 +1,0 @@
-11d8308c7d1a08e1750563022efb7a57  ITS184_1.fq.gz
-9f9ab1f8d038fc2fc79b0fb0a50a252f  ITS184_2.fq.gz
-5b5b3f5fdeee3b6e281006e33b074c87  ITS184_raw_1.fq.gz
-a60cc1ebe1ccaeac16cda5df8e155b4f  ITS184_raw_2.fq.gz

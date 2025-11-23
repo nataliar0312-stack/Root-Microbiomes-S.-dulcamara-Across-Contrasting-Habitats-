@@ -1,4 +1,0 @@
-1abb40d64b8e7e30da76e7aa6f776add  ITS97_1.fq.gz
-bcd06ccbcc164f8714fe1f4b5ca17908  ITS97_2.fq.gz
-a4d112b274d25d6f655218b1b0ef15a3  ITS97_raw_1.fq.gz
-669673469644677d93c9d3e839bc5205  ITS97_raw_2.fq.gz

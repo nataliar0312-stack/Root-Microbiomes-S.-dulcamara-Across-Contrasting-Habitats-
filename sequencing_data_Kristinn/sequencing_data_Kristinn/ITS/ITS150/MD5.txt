@@ -1,4 +1,0 @@
-471e2b8f0b542ecb0e7724e173e8bf6b  ITS150_1.fq.gz
-4d613e476051f53123ac17162987176e  ITS150_2.fq.gz
-75d8f72e571f5e9d579ea6bbfe81d9cf  ITS150_raw_1.fq.gz
-5c9aa2828e0faf941a60effcae889179  ITS150_raw_2.fq.gz

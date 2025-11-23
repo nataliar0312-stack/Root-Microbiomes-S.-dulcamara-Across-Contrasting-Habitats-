@@ -1,4 +1,0 @@
-4227c83b4209cc44f7aac3090c7145bd  ITS161_1.fq.gz
-5d9c6db6b6c733191e6abc8ba9bbb603  ITS161_2.fq.gz
-a7e0ac28cb87372e0cc79f050bddb606  ITS161_raw_1.fq.gz
-ab7dc72ab6d7d2714285e3881d40450f  ITS161_raw_2.fq.gz
